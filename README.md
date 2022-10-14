@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Back End Programming.**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 I’m looking to collaborate on **OpenSource Projects.**
 
 - 👨‍💻 This repository is only for hacktoberfest, any code that has been stolen by others is not the responsibility of the repo owner.
 
