@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects.**
 
-- 👨‍💻 This repository is only for hacktoberfest, any code that has been stolen by others is not the responsibility of the repo owner.
+- 👨‍💻 This repository is only for hacktoberfest, any code that has been stolen by others isn't the responsibility of the repo owner.
 
 - 📫 How to reach me **dontcryatme@gmail.com**
 
